@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a web service for automated data analysis and report generation.<br>👯 I’m looking to collaborate on data science and related tasks.<br>🤝 I’m looking for help with starting my career as a professinal programmer.<br>🌱 I’m currently learning advanced SQL with PostgreSQL.<br>💬 Ask me about data processing, automation or Web development.
+🔭 I’m currently working on a web service for automated data analysis and report generation.<br>👯 I’m looking to collaborate on data science and related tasks.<br>🤝 I’m looking for help with starting my career as a professional programmer.<br>🌱 I’m currently learning advanced SQL with PostgreSQL.<br>💬 Ask me about data processing, automation or Web development.
 
 
 ## 🌐 Socials:
