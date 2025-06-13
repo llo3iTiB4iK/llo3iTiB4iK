@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Solution Designer.<br>👯 I’m looking to collaborate on data science and related tasks.<br>🌱 I’m currently learning React and FastAPI.<br>💬 Ask me about data processing, automation or Web development.
+🔭 I’m currently working as a Solution Designer.<br>👯 I’m looking to collaborate on Data Science and related tasks.<br>🌱 I’m currently learning React and FastAPI.<br>💬 Ask me about Data Processing, Automation or Web Development.
 
 
 ## 🌐 Socials:
